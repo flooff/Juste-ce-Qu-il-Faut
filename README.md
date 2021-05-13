@@ -1,2 +1,2 @@
 # Juste-ce/-Qu-il-Faut
-![](images/front-pages.png)
+![](Juste-ce-Qu-il-Faut/images/front-pages.png)
